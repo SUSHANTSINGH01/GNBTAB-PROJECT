@@ -1,0 +1,25 @@
+.navbar-cart {
+padding-top: 7px;
+padding-bottom: 7px;
+padding-left: 15px;
+padding-right: 15px;
+background-color: #4c4c4c;
+}
+
+.navbar-default .navbar-cart > a,
+.navbar-default .navbar-cart > a:focus,
+.navbar-default .navbar-cart > a:active {
+font-size: 14px;
+text-align: left;
+color: #fff;
+line-height: 1.3;
+padding: 0px;
+background-color: transparent;
+text-decoration: none;
+}
+
+.navbar-default .navbar-cart > a:hover {
+text-align: left;
+color: #fff;
+background-color: transparent;
+}
